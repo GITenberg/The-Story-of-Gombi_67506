@@ -1,0 +1,28 @@
+_repo: The-Story-of-Gombi_67506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stacpoole, H. De Vere (Henry De Vere)
+    alias: Stacpoole, Henry De Vere
+    birthdate: 1863
+    deathdate: 1951
+    gutenberg_agent_id: '219'
+    url: http://www.gutenberg.org/2009/agents/219
+    wikipedia: https://en.wikipedia.org/wiki/Henry_De_Vere_Stacpoole
+description: ''
+gutenberg_issued: '2022-02-26'
+identifiers:
+  gutenberg: '67506'
+language: en
+pgterms:marc905: 20220212141538stacpoole
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Roger Frank.
+publication_note: United States :Street & Smith Corporation,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Story of Gombi
+url: http://www.gutenberg.org/ebooks/67506
